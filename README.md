@@ -1,9 +1,10 @@
-## react-evernote-tutorial
+## react-evernote-clone
+An evernote clone built using ReactJS and Firebase.
 
-A evernote clone built using react and firebase.
-
-You can add, edit and delete notes.
-
-** To Start:
+## To Run:
 * npm i
 * npm start
+
+
+## Site:
+https://react-evernote-tutorial.netlify.com/
